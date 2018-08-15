@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "token_history_api_contracts": "git@github.com:process-engine/token_history_api_contracts.git",
+    "token_history_api_core": "git@github.com:process-engine/token_history_api_core.git",
+    "token_history_api_http": "git@github.com:process-engine/token_history_api_http.git"
+  }
+}

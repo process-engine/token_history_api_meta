@@ -1,0 +1,22 @@
+
+dist
+node_modules
+package-lock.json
+processengine.sqlite
+
+token_history_api_contracts
+token_history_api_http
+token_history_api_core
+
+# OSX-finder info-files
+*.DS_Store
+
+# IDE configs
+.vscode/*
+!.vscode/launch.json
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
