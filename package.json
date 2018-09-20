@@ -4,6 +4,7 @@
   "description": "Contains the developer setup for the token history api.",
   "main": "index.js",
   "scripts": {
+    "build": "meta exec \"npm run build\" --exclude token_history_api_meta",
     "postinstall": "minstall --trust-local-modules ."
   },
   "author": "",
